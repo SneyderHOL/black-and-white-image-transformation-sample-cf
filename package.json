@@ -1,0 +1,24 @@
+{
+  "name": "black-and-white-image-transformation-sample-cf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SneyderHOL/black-and-white-image-transformation-sample-cf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SneyderHOL/black-and-white-image-transformation-sample-cf/issues"
+  },
+  "homepage": "https://github.com/SneyderHOL/black-and-white-image-transformation-sample-cf#readme",
+  "dependencies": {
+    "jimp": "^1.6.0"
+  }
+}
